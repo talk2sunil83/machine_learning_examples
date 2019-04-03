@@ -4,6 +4,7 @@ from scipy import stats
 
 
 #%%
+
 data = np.array([[36,14],[30, 25]])
 print(data.shape)
 
